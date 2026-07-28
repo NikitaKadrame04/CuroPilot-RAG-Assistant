@@ -6,7 +6,7 @@ from pathlib import Path
 
 BASE_URL = "https://www.curopilot.com/"
 
-OUTPUT_FILE = Path("data/urls.txt")
+OUTPUT_FILE = Path("CuroPilot-RAG-Assistant/data/urls.txt")
 
 
 def is_internal_link(url: str) -> bool:
