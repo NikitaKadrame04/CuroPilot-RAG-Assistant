@@ -1,0 +1,74 @@
+About CuroPilot | CuroPilot
+CuroPilot
+Home
+About
+Golden Hour
+Survey
+Insights
+Contact
+About CuroPilot
+Born from real emergencies.
+Built for the Golden Hour.
+We are student founders who saw how chaotic emergency rooms become when hospitals get zero pre-arrival information. CuroPilot exists to change that.
+What is CuroPilot?
+A structured pre-alert system for hospitals
+Paramedics use a simple interface to capture vitals, injuries, trauma levels, and ETA. Hospitals receive a secure briefing that triggers workflows for specialists, blood banks, imaging, and OT readiness — long before the patient reaches the gate.
+✔
+Built with public insight and clinician interviews
+✔
+Designed as software-first so it scales fast
+✔
+Documents every critical minute for accountability
+What we ask from you
+Share experiences, connect us to emergency professionals, or pilot the workflow in your hospital. The more stories we collect, the stronger the case for adoption.
+Contribute via survey ↗
+Our story
+We are student founders who witnessed first-hand how chaotic and unprepared emergency situations can be. In many accident and trauma cases, hospitals struggled because they had no information about the patient before arrival. These delays — often during the critical Golden Hour — made us question why such an important communication gap still exists.
+Driven by the desire to solve this real problem, we decided to build CuroPilot — a technology-led solution that connects ambulances and hospitals in real time. Our goal is simple: ensure hospitals are prepared before the patient arrives, reduce treatment delays, and ultimately save more lives.
+Our Mission
+To bridge the communication gap between ambulances, hospitals, and citizens so that emergency teams prepare before the patient arrives.
+Our Vision
+A healthcare system where every Golden Hour is protected because hospitals receive structured information the moment an ambulance is dispatched.
+From chaos to coordination
+Every point below comes from on-ground conversations with paramedics, ER doctors, and families who lost the Golden Hour.
+The Problem
+Hospitals do not know the patient's condition before arrival. Doctors receive zero context about injuries, vitals, or trauma level and start from scratch once the stretcher enters.
+The Impact
+This forces critical delays — gathering doctors, preparing equipment, readying operation theatres, and calling the right specialists after the ambulance reaches. Minutes are lost when lives depend on them.
+The Solution
+CuroPilot lets paramedics send real-time vitals, trauma notes, photos, and ETA directly to emergency teams so mobilisation, diagnosis, and blood arrangements begin before the patient arrives.
+Why we are creating this website
+This project is community-first. Before building full-scale technology, we want the public mandate to prove that early communication tools are needed in Indian emergency care.
+▹
+Understand real emergency challenges from citizens, paramedics, and caregivers.
+▹
+Gather public experiences and opinions to prioritise features that matter.
+▹
+Ensure CuroPilot is built on real-world problems, not assumptions.
+Future vision
+Where CuroPilot is headed
+We are building towards a future where no hospital is caught unprepared during a medical emergency. Here is our long-term roadmap — honest about what exists and what's ahead.
+Real-time ambulance–hospital communication
+Structured data transmission replacing phone calls — giving hospitals a live briefing as the ambulance moves.
+Automated triage assistance
+Future AI layers that help paramedics assess severity in the field and recommend hospital-level preparations.
+City-wide coordination network
+An emergency mesh connecting ambulances, hospitals, blood banks, and public health systems across cities.
+Post-incident documentation
+Every Golden Hour minute documented for accountability, research, and continuous improvement in trauma care.
+These represent our research-validated direction — not shipped features. CuroPilot is in early concept stage and is seeking collaborators to build responsibly.
+Collaborate with us
+We are looking for partners who care about the Golden Hour
+We are not seeking customers — we are seeking collaborators. If you work in emergency medicine, hospital operations, ambulance services, or health-tech research, we want to learn from you and build with you.
+▹
+Pilot hospitals willing to test pre-arrival alert workflows
+▹
+Ambulance operators open to structured data capture during transit
+▹
+Emergency doctors who can validate clinical accuracy of alert fields
+▹
+Medical advisors who've worked in trauma care or pre-hospital systems
+▹
+Research collaborators from public health, biomedical, or health-tech backgrounds
+Reach out to collaborate
+Share your emergency story
