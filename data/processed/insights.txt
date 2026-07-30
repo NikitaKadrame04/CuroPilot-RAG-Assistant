@@ -1,0 +1,73 @@
+Emergency Response Research & Insights | CuroPilot
+Research-backed findings from the field
+Key learnings from real emergency cases, ambulance–hospital interactions, and conversations with emergency workers that guide CuroPilot's direction.
+68%
+Faster Hospital Preparation
+In interviews, hospitals that received any form of pre-arrival data reported being able to prepare treatment up to 68% faster.
+Source:
+Pilot interviews with ER staff
+42%
+Reduced Communication Errors
+Structured data sharing between ambulance and ER teams reduced miscommunication incidents by 42% in observed cases.
+Source:
+Field conversation analysis
+31%
+Improved Patient Stabilisation
+Ambulances providing structured vitals and trauma reports showed measurably better patient handover outcomes.
+Source:
+Paramedic interviews
+19%
+Higher Survival Indicators
+Critical emergency cases where any form of pre-alert existed showed improved survival outcomes during the Golden Hour.
+Source:
+Published medical literature review
+These figures are derived from limited pilot interviews, field conversations, and literature review. They represent directional insights, not large-scale clinical trial results. CuroPilot is transparent about its early-stage validation status.
+Pilot interview highlights
+Early survey and interview data from emergency workers.
+Hospitals receiving zero pre-alerts
+0
+%
+from pilot interviews
+Golden Hour cases where time is lost
+0
+%
+from pilot interviews
+People willing to share emergency data
+0
+%
+from pilot interviews
+Key findings from field research
+Patterns observed across conversations with paramedics, ER staff, ambulance operators, and patient families.
+Phone calls are the primary communication channel
+Nearly all ambulance-to-hospital communication relies on phone calls. These are rushed, unstructured, and frequently lose critical details in transit.
+Hospital readiness depends on notice
+Hospitals that knew a patient was coming — even with minimal detail — consistently prepared faster than those surprised by an ambulance arrival.
+Paramedics want structured tools
+In field conversations, paramedic leads expressed strong interest in a simple digital tool to replace voice-based handover protocols.
+Families experience the gap directly
+In survey responses, caregivers frequently cited confusion and visible unpreparedness at hospitals when critical patients arrived by ambulance.
+Research & validation approach
+CuroPilot's direction is grounded in conversations, not assumptions.
+Field conversations
+Interviews with paramedics, ER doctors, ambulance operators, and caregivers who experienced Golden Hour delays first-hand.
+Emergency pain points
+Documented patterns of miscommunication, repeated across hospitals — from missing blood group data to unalerted specialists.
+Real-world care delays
+Mapped the minutes lost between ambulance arrival and treatment start — consistently 8–20 minutes of avoidable delay.
+Public insight & survey
+Ongoing public survey collecting emergency stories and opinions to validate the scale of the communication gap.
+CuroPilot is not a launched product. Every feature is being validated against real-world emergency workflows before development.
+Real emergencies where minutes decide everything
+When hospitals are unprepared, precious time is lost — and patients suffer the consequences.
+Road accidents
+Victims with internal bleeding need immediate attention, but hospitals often don't know the severity until arrival.
+Heart attacks
+Patients need emergency ECGs, cardiologist preparedness, and immediate intervention — delays reduce survival.
+Head injuries & trauma
+Neurosurgeons, CT scans, and trauma teams must be arranged before the patient reaches the hospital.
+Severe bleeding cases
+Hospitals must arrange blood units early, but they only learn the requirement upon arrival.
+Have a Golden Hour story to share?
+Your emergency experience helps us validate and improve CuroPilot. Every detailed story strengthens the case for pre-arrival communication.
+Open the survey form ↗
+Contact the team

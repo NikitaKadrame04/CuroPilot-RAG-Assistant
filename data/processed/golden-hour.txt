@@ -1,0 +1,41 @@
+Golden Hour in Trauma Care | CuroPilot
+Golden Hour intelligence
+The first 60 minutes after a trauma or cardiac incident decide survival. CuroPilot exists to ensure those minutes are used for treatment — not preparation.
+Why the Golden Hour slips away
+When ambulances and hospitals operate in silos, teams only start preparing once the patient arrives. That delay is often the difference between life and death.
+Lack of real-time information
+Hospitals do not know what condition the patient is in while they are on the way.
+Equipment and specialists not ready
+Doctors need time to prepare because they receive critical details too late.
+Confusion and miscommunication
+Phone calls are rushed, incomplete, and rarely structured.
+Overloaded emergency rooms
+Existing cases stretch teams thin, so new emergencies wait for setup.
+Real stories
+“By the time the ambulance arrived, the hospital had to call neuro, arrange blood, and prep the OT. We lost 15 minutes and the patient deteriorated.”
+Role of ambulances & paramedics
+▹
+Assessing the patient on-site and stabilising critical injuries.
+▹
+Capturing vitals, trauma level, and suspected complications.
+▹
+Alerting hospitals so teams can mobilise resources early.
+▹
+Sharing continuous updates en route and during handover.
+How early communication saves lives
+✔
+Prep trauma surgeons, cardiologists, neurologists, and ICU staff.
+✔
+Ready ventilators, defibrillators, imaging, and OT suites.
+✔
+Arrange matching blood units before the patient arrives.
+✔
+Start diagnosis immediately instead of gathering history.
+✔
+Improve survival rates because the Golden Hour is protected.
+How CuroPilot helps
+Structured pre-alerts that trigger readiness
+Paramedics submit vitals, injury summaries, and ETA through a guided flow. Hospitals get instant notifications and a preparation checklist — all before wheels stop.
+Join the pilot
+We are prototyping with emergency physicians and ambulance partners. If you'd like to join the pilot or share field experience, the survey is the fastest way to reach us.
+Share your experience ↗

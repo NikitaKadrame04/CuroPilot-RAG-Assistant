@@ -1,0 +1,98 @@
+Ambulance-to-Hospital Communication Platform in India
+Early-Stage Health-Tech · Emergency Communication Platform
+Hospitals should be ready
+before
+the patient arrives.
+CuroPilot is a real-time emergency communication system that gives hospitals advance visibility into a patient's condition, injury type, vitals, and arrival time — so trauma teams can prepare before the ambulance reaches the gate.
+Share your emergency story
+Learn why delays kill
+What is the problem?
+When emergencies happen, most hospitals start from zero.
+Every minute matters — yet hospitals receive patients with no prior information about injuries, vitals, or severity.
+Hospitals receive patients with zero prior information.
+Doctors have no idea about injuries, vitals, or trauma level. They start from scratch the moment the stretcher enters — wasting minutes that decide survival.
+Diagnosis and treatment are delayed.
+Gathering doctors, preparing equipment, readying the OT, and calling specialists — all begins after arrival instead of before.
+Ambulance–hospital communication is broken.
+Phone calls are rushed, incomplete, and lack structure. There is no standardised system for transmitting critical patient data in real time.
+The Golden Hour is lost.
+The first 60 minutes after major trauma decide survival. When hospitals start from zero, those minutes slip away while teams scramble.
+The reality
+Hospitals begin treatment setup only after the ambulance arrives — losing 8–20 critical minutes.
+Understand the Golden Hour →
+Why this matters in India
+India's emergency care gap is a silent crisis
+The scale of trauma in India demands a pre-hospital communication system that simply does not exist today.
+~1.8 Lakh
+road accident deaths per year in India
+Source:
+MoRTH Annual Report
+~50%
+of trauma deaths occur within the first hour
+Source:
+Indian Journal of Surgery
+<5%
+of hospitals receive structured pre-arrival alerts
+Source:
+Field interviews
+30+ min
+average urban ambulance response time
+Source:
+NITI Aayog data
+Statistics referenced from MoRTH, NITI Aayog, and field interviews. Some figures are approximate and subject to verification.
+How CuroPilot works
+From incident to prepared hospital
+CuroPilot injects critical information between the ambulance and the ER so the Golden Hour is protected — not wasted.
+🚨
+→
+Incident
+Accident, cardiac arrest, or trauma — the clock starts.
+🚑
+→
+Paramedic assessment
+Vitals, injuries, and first aid recorded inside the ambulance.
+📡
+→
+CuroPilot alert
+Structured case summary, vitals, and ETA reach the hospital instantly.
+🏥
+Hospital ready
+OT, specialists, blood units, and imaging prepared before arrival.
+Who CuroPilot serves
+Built for every link in the emergency chain
+Hospitals & ERs
+Receive structured pre-arrival alerts so trauma teams, blood banks, and OTs are ready before the ambulance reaches the gate.
+Ambulance Networks
+Give paramedics a simple workflow to send patient data instead of making rushed, incomplete phone calls.
+Emergency Doctors
+Start diagnosis from real-time vitals and injury summaries — not from zero — the moment the patient arrives.
+Public Health Systems
+Enable city-wide emergency coordination, accountability, and data-driven improvements in trauma care.
+Voices from the field
+Real stories that reveal the cost of delay
+Anonymous accounts from emergency workers and caregivers.
+“
+We arrived with a head injury patient, but it still took 12 minutes for neuro to be called. A pre-alert could have saved that time.
+”
+Emergency Resident
+—
+Tier-1 Trauma Center
+“
+Ambulance teams are on the phone while treating the patient. A single structured alert will change how we work.
+”
+Paramedic Lead
+—
+Private Ambulance Network
+“
+We lost the Golden Hour because everyone was scrambling for blood. If they knew earlier, prep could have finished.
+”
+Caregiver
+—
+Road Accident Survivor's Family
+View research insights & findings →
+Early-stage research
+CuroPilot is in early-stage research. We are seeking collaborators — not customers.
+Whether you're a hospital, ambulance network, investor, emergency professional, or someone with a Golden Hour story — your involvement can help save lives.
+Share your emergency story
+View project overview
+Contact us
