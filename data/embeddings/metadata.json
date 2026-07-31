@@ -1,0 +1,278 @@
+[
+    {
+        "id": 1,
+        "source": "about.txt",
+        "chunk_number": 1,
+        "text": "About CuroPilot | CuroPilot\nAbout CuroPilot\nBorn from real emergencies.\nBuilt for the Golden Hour.\nWe are student founders who saw how chaotic emergency rooms become when hospitals get zero pre-arrival information. CuroPilot exists to change that.\nWhat is CuroPilot?\nA structured pre-alert system for hospitals\nParamedics use a simple interface to capture vitals, injuries, trauma levels, and ETA. Hospitals receive a secure briefing that triggers workflows for specialists, blood banks, imaging, and"
+    },
+    {
+        "id": 2,
+        "source": "about.txt",
+        "chunk_number": 2,
+        "text": "spitals receive a secure briefing that triggers workflows for specialists, blood banks, imaging, and OT readiness — long before the patient reaches the gate.\n✔\nBuilt with public insight and clinician interviews\n✔\nDesigned as software-first so it scales fast\n✔\nDocuments every critical minute for accountability\nWhat we ask from you\nShare experiences, connect us to emergency professionals, or pilot the workflow in your hospital. The more stories we collect, the stronger the case for adoption.\nContr"
+    },
+    {
+        "id": 3,
+        "source": "about.txt",
+        "chunk_number": 3,
+        "text": "he workflow in your hospital. The more stories we collect, the stronger the case for adoption.\nContribute via survey ↗\nOur story\nWe are student founders who witnessed first-hand how chaotic and unprepared emergency situations can be. In many accident and trauma cases, hospitals struggled because they had no information about the patient before arrival. These delays — often during the critical Golden Hour — made us question why such an important communication gap still exists.\nDriven by the desir"
+    },
+    {
+        "id": 4,
+        "source": "about.txt",
+        "chunk_number": 4,
+        "text": "en Hour — made us question why such an important communication gap still exists.\nDriven by the desire to solve this real problem, we decided to build CuroPilot — a technology-led solution that connects ambulances and hospitals in real time. Our goal is simple: ensure hospitals are prepared before the patient arrives, reduce treatment delays, and ultimately save more lives.\nOur Mission\nTo bridge the communication gap between ambulances, hospitals, and citizens so that emergency teams prepare befo"
+    },
+    {
+        "id": 5,
+        "source": "about.txt",
+        "chunk_number": 5,
+        "text": "e communication gap between ambulances, hospitals, and citizens so that emergency teams prepare before the patient arrives.\nOur Vision\nA healthcare system where every Golden Hour is protected because hospitals receive structured information the moment an ambulance is dispatched.\nFrom chaos to coordination\nEvery point below comes from on-ground conversations with paramedics, ER doctors, and families who lost the Golden Hour.\nThe Problem\nHospitals do not know the patient's condition before arrival"
+    },
+    {
+        "id": 6,
+        "source": "about.txt",
+        "chunk_number": 6,
+        "text": "s who lost the Golden Hour.\nThe Problem\nHospitals do not know the patient's condition before arrival. Doctors receive zero context about injuries, vitals, or trauma level and start from scratch once the stretcher enters.\nThe Impact\nThis forces critical delays — gathering doctors, preparing equipment, readying operation theatres, and calling the right specialists after the ambulance reaches. Minutes are lost when lives depend on them.\nThe Solution\nCuroPilot lets paramedics send real-time vitals,"
+    },
+    {
+        "id": 7,
+        "source": "about.txt",
+        "chunk_number": 7,
+        "text": "s are lost when lives depend on them.\nThe Solution\nCuroPilot lets paramedics send real-time vitals, trauma notes, photos, and ETA directly to emergency teams so mobilisation, diagnosis, and blood arrangements begin before the patient arrives.\nWhy we are creating this website\nThis project is community-first. Before building full-scale technology, we want the public mandate to prove that early communication tools are needed in Indian emergency care.\n▹\nUnderstand real emergency challenges from citi"
+    },
+    {
+        "id": 8,
+        "source": "about.txt",
+        "chunk_number": 8,
+        "text": "nication tools are needed in Indian emergency care.\n▹\nUnderstand real emergency challenges from citizens, paramedics, and caregivers.\n▹\nGather public experiences and opinions to prioritise features that matter.\n▹\nEnsure CuroPilot is built on real-world problems, not assumptions.\nFuture vision\nWhere CuroPilot is headed\nWe are building towards a future where no hospital is caught unprepared during a medical emergency. Here is our long-term roadmap — honest about what exists and what's ahead.\nReal-"
+    },
+    {
+        "id": 9,
+        "source": "about.txt",
+        "chunk_number": 9,
+        "text": "medical emergency. Here is our long-term roadmap — honest about what exists and what's ahead.\nReal-time ambulance–hospital communication\nStructured data transmission replacing phone calls — giving hospitals a live briefing as the ambulance moves.\nAutomated triage assistance\nFuture AI layers that help paramedics assess severity in the field and recommend hospital-level preparations.\nCity-wide coordination network\nAn emergency mesh connecting ambulances, hospitals, blood banks, and public health"
+    },
+    {
+        "id": 10,
+        "source": "about.txt",
+        "chunk_number": 10,
+        "text": "dination network\nAn emergency mesh connecting ambulances, hospitals, blood banks, and public health systems across cities.\nPost-incident documentation\nEvery Golden Hour minute documented for accountability, research, and continuous improvement in trauma care.\nThese represent our research-validated direction — not shipped features. CuroPilot is in early concept stage and is seeking collaborators to build responsibly.\nCollaborate with us\nWe are looking for partners who care about the Golden Hour\nW"
+    },
+    {
+        "id": 11,
+        "source": "about.txt",
+        "chunk_number": 11,
+        "text": "build responsibly.\nCollaborate with us\nWe are looking for partners who care about the Golden Hour\nWe are not seeking customers — we are seeking collaborators. If you work in emergency medicine, hospital operations, ambulance services, or health-tech research, we want to learn from you and build with you.\n▹\nPilot hospitals willing to test pre-arrival alert workflows\n▹\nAmbulance operators open to structured data capture during transit\n▹\nEmergency doctors who can validate clinical accuracy of aler"
+    },
+    {
+        "id": 12,
+        "source": "about.txt",
+        "chunk_number": 12,
+        "text": "tructured data capture during transit\n▹\nEmergency doctors who can validate clinical accuracy of alert fields\n▹\nMedical advisors who've worked in trauma care or pre-hospital systems\n▹\nResearch collaborators from public health, biomedical, or health-tech backgrounds\nReach out to collaborate\nShare your emergency story"
+    },
+    {
+        "id": 13,
+        "source": "contact.txt",
+        "chunk_number": 1,
+        "text": "Contact CuroPilot | CuroPilot\nConnect with CuroPilot\nLet's work together to protect the Golden Hour\nHospitals & ERs\nInterested in piloting pre-arrival alerts? We'll walk you through the proposed workflow.\nAmbulance Operators\nHelp us understand paramedic workflows and co-design the data capture process.\nInvestors & Incubators\nRequest our pitch deck or schedule a conversation about the opportunity.\nResearchers & Advisors\nCollaborate on emergency care research, clinical validation, or public health"
+    },
+    {
+        "id": 14,
+        "source": "contact.txt",
+        "chunk_number": 2,
+        "text": "Researchers & Advisors\nCollaborate on emergency care research, clinical validation, or public health analysis.\nFull name\nEmail\nYour role\nI am a...\nHospital / ER Administrator\nAmbulance Operator / Paramedic\nEmergency Doctor / Clinician\nInvestor / Incubator\nResearcher / Advisor\nGeneral / Other\nMessage\nSend message\nHospitals, paramedics, public-health teams, and citizens are helping us validate the prototype. Reach out if you want to collaborate, share data, or connect us to emergency stakeholders."
+    },
+    {
+        "id": 15,
+        "source": "contact.txt",
+        "chunk_number": 3,
+        "text": "rototype. Reach out if you want to collaborate, share data, or connect us to emergency stakeholders.\nEmail\ncuropilot.info@gmail.com\nStudent founder desk\n+91 9359417537\n+91 9423608335\nBased in\nPune, India\nTake the survey instead"
+    },
+    {
+        "id": 16,
+        "source": "golden-hour.txt",
+        "chunk_number": 1,
+        "text": "Golden Hour in Trauma Care | CuroPilot\nGolden Hour intelligence\nThe first 60 minutes after a trauma or cardiac incident decide survival. CuroPilot exists to ensure those minutes are used for treatment — not preparation.\nWhy the Golden Hour slips away\nWhen ambulances and hospitals operate in silos, teams only start preparing once the patient arrives. That delay is often the difference between life and death.\nLack of real-time information\nHospitals do not know what condition the patient is in whil"
+    },
+    {
+        "id": 17,
+        "source": "golden-hour.txt",
+        "chunk_number": 2,
+        "text": "and death.\nLack of real-time information\nHospitals do not know what condition the patient is in while they are on the way.\nEquipment and specialists not ready\nDoctors need time to prepare because they receive critical details too late.\nConfusion and miscommunication\nPhone calls are rushed, incomplete, and rarely structured.\nOverloaded emergency rooms\nExisting cases stretch teams thin, so new emergencies wait for setup.\nReal stories\n“By the time the ambulance arrived, the hospital had to call neu"
+    },
+    {
+        "id": 18,
+        "source": "golden-hour.txt",
+        "chunk_number": 3,
+        "text": "encies wait for setup.\nReal stories\n“By the time the ambulance arrived, the hospital had to call neuro, arrange blood, and prep the OT. We lost 15 minutes and the patient deteriorated.”\nRole of ambulances & paramedics\n▹\nAssessing the patient on-site and stabilising critical injuries.\n▹\nCapturing vitals, trauma level, and suspected complications.\n▹\nAlerting hospitals so teams can mobilise resources early.\n▹\nSharing continuous updates en route and during handover.\nHow early communication saves liv"
+    },
+    {
+        "id": 19,
+        "source": "golden-hour.txt",
+        "chunk_number": 4,
+        "text": "early.\n▹\nSharing continuous updates en route and during handover.\nHow early communication saves lives\n✔\nPrep trauma surgeons, cardiologists, neurologists, and ICU staff.\n✔\nReady ventilators, defibrillators, imaging, and OT suites.\n✔\nArrange matching blood units before the patient arrives.\n✔\nStart diagnosis immediately instead of gathering history.\n✔\nImprove survival rates because the Golden Hour is protected.\nHow CuroPilot helps\nStructured pre-alerts that trigger readiness\nParamedics submit vit"
+    },
+    {
+        "id": 20,
+        "source": "golden-hour.txt",
+        "chunk_number": 5,
+        "text": "is protected.\nHow CuroPilot helps\nStructured pre-alerts that trigger readiness\nParamedics submit vitals, injury summaries, and ETA through a guided flow. Hospitals get instant notifications and a preparation checklist — all before wheels stop.\nJoin the pilot\nWe are prototyping with emergency physicians and ambulance partners. If you'd like to join the pilot or share field experience, the survey is the fastest way to reach us.\nShare your experience ↗"
+    },
+    {
+        "id": 21,
+        "source": "golden-hour.txt",
+        "chunk_number": 6,
+        "text": "the fastest way to reach us.\nShare your experience ↗"
+    },
+    {
+        "id": 22,
+        "source": "home.txt",
+        "chunk_number": 1,
+        "text": "Ambulance-to-Hospital Communication Platform in India\nEarly-Stage Health-Tech · Emergency Communication Platform\nHospitals should be ready\nbefore\nthe patient arrives.\nCuroPilot is a real-time emergency communication system that gives hospitals advance visibility into a patient's condition, injury type, vitals, and arrival time — so trauma teams can prepare before the ambulance reaches the gate.\nShare your emergency story\nLearn why delays kill\nWhat is the problem?\nWhen emergencies happen, most ho"
+    },
+    {
+        "id": 23,
+        "source": "home.txt",
+        "chunk_number": 2,
+        "text": "are your emergency story\nLearn why delays kill\nWhat is the problem?\nWhen emergencies happen, most hospitals start from zero.\nEvery minute matters — yet hospitals receive patients with no prior information about injuries, vitals, or severity.\nHospitals receive patients with zero prior information.\nDoctors have no idea about injuries, vitals, or trauma level. They start from scratch the moment the stretcher enters — wasting minutes that decide survival.\nDiagnosis and treatment are delayed.\nGatheri"
+    },
+    {
+        "id": 24,
+        "source": "home.txt",
+        "chunk_number": 3,
+        "text": "tretcher enters — wasting minutes that decide survival.\nDiagnosis and treatment are delayed.\nGathering doctors, preparing equipment, readying the OT, and calling specialists — all begins after arrival instead of before.\nAmbulance–hospital communication is broken.\nPhone calls are rushed, incomplete, and lack structure. There is no standardised system for transmitting critical patient data in real time.\nThe Golden Hour is lost.\nThe first 60 minutes after major trauma decide survival. When hospital"
+    },
+    {
+        "id": 25,
+        "source": "home.txt",
+        "chunk_number": 4,
+        "text": "ime.\nThe Golden Hour is lost.\nThe first 60 minutes after major trauma decide survival. When hospitals start from zero, those minutes slip away while teams scramble.\nThe reality\nHospitals begin treatment setup only after the ambulance arrives — losing 8–20 critical minutes.\nUnderstand the Golden Hour →\nWhy this matters in India\nIndia's emergency care gap is a silent crisis\nThe scale of trauma in India demands a pre-hospital communication system that simply does not exist today.\n~1.8 Lakh\nroad acc"
+    },
+    {
+        "id": 26,
+        "source": "home.txt",
+        "chunk_number": 5,
+        "text": "dia demands a pre-hospital communication system that simply does not exist today.\n~1.8 Lakh\nroad accident deaths per year in India\nSource:\nMoRTH Annual Report\n~50%\nof trauma deaths occur within the first hour\nSource:\nIndian Journal of Surgery\n<5%\nof hospitals receive structured pre-arrival alerts\nSource:\nField interviews\n30+ min\naverage urban ambulance response time\nSource:\nNITI Aayog data\nStatistics referenced from MoRTH, NITI Aayog, and field interviews. Some figures are approximate and subjec"
+    },
+    {
+        "id": 27,
+        "source": "home.txt",
+        "chunk_number": 6,
+        "text": "ics referenced from MoRTH, NITI Aayog, and field interviews. Some figures are approximate and subject to verification.\nHow CuroPilot works\nFrom incident to prepared hospital\nCuroPilot injects critical information between the ambulance and the ER so the Golden Hour is protected — not wasted.\n🚨\n→\nIncident\nAccident, cardiac arrest, or trauma — the clock starts.\n🚑\n→\nParamedic assessment\nVitals, injuries, and first aid recorded inside the ambulance.\n📡\n→\nCuroPilot alert\nStructured case summary, vitals"
+    },
+    {
+        "id": 28,
+        "source": "home.txt",
+        "chunk_number": 7,
+        "text": "es, and first aid recorded inside the ambulance.\n📡\n→\nCuroPilot alert\nStructured case summary, vitals, and ETA reach the hospital instantly.\n🏥\nHospital ready\nOT, specialists, blood units, and imaging prepared before arrival.\nWho CuroPilot serves\nBuilt for every link in the emergency chain\nHospitals & ERs\nReceive structured pre-arrival alerts so trauma teams, blood banks, and OTs are ready before the ambulance reaches the gate.\nAmbulance Networks\nGive paramedics a simple workflow to send patient d"
+    },
+    {
+        "id": 29,
+        "source": "home.txt",
+        "chunk_number": 8,
+        "text": "e ambulance reaches the gate.\nAmbulance Networks\nGive paramedics a simple workflow to send patient data instead of making rushed, incomplete phone calls.\nEmergency Doctors\nStart diagnosis from real-time vitals and injury summaries — not from zero — the moment the patient arrives.\nPublic Health Systems\nEnable city-wide emergency coordination, accountability, and data-driven improvements in trauma care.\nVoices from the field\nReal stories that reveal the cost of delay\nAnonymous accounts from emerge"
+    },
+    {
+        "id": 30,
+        "source": "home.txt",
+        "chunk_number": 9,
+        "text": "are.\nVoices from the field\nReal stories that reveal the cost of delay\nAnonymous accounts from emergency workers and caregivers.\n“\nWe arrived with a head injury patient, but it still took 12 minutes for neuro to be called. A pre-alert could have saved that time.\n”\nEmergency Resident\n—\nTier-1 Trauma Center\n“\nAmbulance teams are on the phone while treating the patient. A single structured alert will change how we work.\n”\nParamedic Lead\n—\nPrivate Ambulance Network\n“\nWe lost the Golden Hour because e"
+    },
+    {
+        "id": 31,
+        "source": "home.txt",
+        "chunk_number": 10,
+        "text": "change how we work.\n”\nParamedic Lead\n—\nPrivate Ambulance Network\n“\nWe lost the Golden Hour because everyone was scrambling for blood. If they knew earlier, prep could have finished.\n”\nCaregiver\n—\nRoad Accident Survivor's Family\nView research insights & findings →\nEarly-stage research\nCuroPilot is in early-stage research. We are seeking collaborators — not customers.\nWhether you're a hospital, ambulance network, investor, emergency professional, or someone with a Golden Hour story — your involvem"
+    },
+    {
+        "id": 32,
+        "source": "home.txt",
+        "chunk_number": 11,
+        "text": "lance network, investor, emergency professional, or someone with a Golden Hour story — your involvement can help save lives.\nShare your emergency story\nView project overview\nContact us"
+    },
+    {
+        "id": 33,
+        "source": "insights.txt",
+        "chunk_number": 1,
+        "text": "Emergency Response Research & Insights | CuroPilot\nResearch-backed findings from the field\nKey learnings from real emergency cases, ambulance–hospital interactions, and conversations with emergency workers that guide CuroPilot's direction.\n68%\nFaster Hospital Preparation\nIn interviews, hospitals that received any form of pre-arrival data reported being able to prepare treatment up to 68% faster.\nSource:\nPilot interviews with ER staff\n42%\nReduced Communication Errors\nStructured data sharing betwe"
+    },
+    {
+        "id": 34,
+        "source": "insights.txt",
+        "chunk_number": 2,
+        "text": "ource:\nPilot interviews with ER staff\n42%\nReduced Communication Errors\nStructured data sharing between ambulance and ER teams reduced miscommunication incidents by 42% in observed cases.\nSource:\nField conversation analysis\n31%\nImproved Patient Stabilisation\nAmbulances providing structured vitals and trauma reports showed measurably better patient handover outcomes.\nSource:\nParamedic interviews\n19%\nHigher Survival Indicators\nCritical emergency cases where any form of pre-alert existed showed impr"
+    },
+    {
+        "id": 35,
+        "source": "insights.txt",
+        "chunk_number": 3,
+        "text": "Higher Survival Indicators\nCritical emergency cases where any form of pre-alert existed showed improved survival outcomes during the Golden Hour.\nSource:\nPublished medical literature review\nThese figures are derived from limited pilot interviews, field conversations, and literature review. They represent directional insights, not large-scale clinical trial results. CuroPilot is transparent about its early-stage validation status.\nPilot interview highlights\nEarly survey and interview data from e"
+    },
+    {
+        "id": 36,
+        "source": "insights.txt",
+        "chunk_number": 4,
+        "text": "its early-stage validation status.\nPilot interview highlights\nEarly survey and interview data from emergency workers.\nHospitals receiving zero pre-alerts\n0\n%\nfrom pilot interviews\nGolden Hour cases where time is lost\n0\n%\nfrom pilot interviews\nPeople willing to share emergency data\n0\n%\nfrom pilot interviews\nKey findings from field research\nPatterns observed across conversations with paramedics, ER staff, ambulance operators, and patient families.\nPhone calls are the primary communication channel"
+    },
+    {
+        "id": 37,
+        "source": "insights.txt",
+        "chunk_number": 5,
+        "text": "staff, ambulance operators, and patient families.\nPhone calls are the primary communication channel\nNearly all ambulance-to-hospital communication relies on phone calls. These are rushed, unstructured, and frequently lose critical details in transit.\nHospital readiness depends on notice\nHospitals that knew a patient was coming — even with minimal detail — consistently prepared faster than those surprised by an ambulance arrival.\nParamedics want structured tools\nIn field conversations, paramedic"
+    },
+    {
+        "id": 38,
+        "source": "insights.txt",
+        "chunk_number": 6,
+        "text": "rprised by an ambulance arrival.\nParamedics want structured tools\nIn field conversations, paramedic leads expressed strong interest in a simple digital tool to replace voice-based handover protocols.\nFamilies experience the gap directly\nIn survey responses, caregivers frequently cited confusion and visible unpreparedness at hospitals when critical patients arrived by ambulance.\nResearch & validation approach\nCuroPilot's direction is grounded in conversations, not assumptions.\nField conversations"
+    },
+    {
+        "id": 39,
+        "source": "insights.txt",
+        "chunk_number": 7,
+        "text": "on approach\nCuroPilot's direction is grounded in conversations, not assumptions.\nField conversations\nInterviews with paramedics, ER doctors, ambulance operators, and caregivers who experienced Golden Hour delays first-hand.\nEmergency pain points\nDocumented patterns of miscommunication, repeated across hospitals — from missing blood group data to unalerted specialists.\nReal-world care delays\nMapped the minutes lost between ambulance arrival and treatment start — consistently 8–20 minutes of avoid"
+    },
+    {
+        "id": 40,
+        "source": "insights.txt",
+        "chunk_number": 8,
+        "text": "the minutes lost between ambulance arrival and treatment start — consistently 8–20 minutes of avoidable delay.\nPublic insight & survey\nOngoing public survey collecting emergency stories and opinions to validate the scale of the communication gap.\nCuroPilot is not a launched product. Every feature is being validated against real-world emergency workflows before development.\nReal emergencies where minutes decide everything\nWhen hospitals are unprepared, precious time is lost — and patients suffer"
+    },
+    {
+        "id": 41,
+        "source": "insights.txt",
+        "chunk_number": 9,
+        "text": "minutes decide everything\nWhen hospitals are unprepared, precious time is lost — and patients suffer the consequences.\nRoad accidents\nVictims with internal bleeding need immediate attention, but hospitals often don't know the severity until arrival.\nHeart attacks\nPatients need emergency ECGs, cardiologist preparedness, and immediate intervention — delays reduce survival.\nHead injuries & trauma\nNeurosurgeons, CT scans, and trauma teams must be arranged before the patient reaches the hospital.\nSev"
+    },
+    {
+        "id": 42,
+        "source": "insights.txt",
+        "chunk_number": 10,
+        "text": "rosurgeons, CT scans, and trauma teams must be arranged before the patient reaches the hospital.\nSevere bleeding cases\nHospitals must arrange blood units early, but they only learn the requirement upon arrival.\nHave a Golden Hour story to share?\nYour emergency experience helps us validate and improve CuroPilot. Every detailed story strengthens the case for pre-arrival communication.\nOpen the survey form ↗\nContact the team"
+    },
+    {
+        "id": 43,
+        "source": "insights.txt",
+        "chunk_number": 11,
+        "text": "y form ↗\nContact the team"
+    },
+    {
+        "id": 44,
+        "source": "survey.txt",
+        "chunk_number": 1,
+        "text": "Share Your Emergency Story | CuroPilot\nCuroPilot Survey\nYour story can help save the next Golden Hour\nWe are collecting lived emergency experiences — not generic feedback. These stories help us show hospitals and policymakers the real communication gap that exists between ambulances and emergency rooms.\nWhat we want to learn\nTell us about road accidents, heart attacks, trauma cases, or any moment where lack of coordination cost time. Every detailed story strengthens the case for CuroPilot.\nUse t"
+    },
+    {
+        "id": 45,
+        "source": "survey.txt",
+        "chunk_number": 2,
+        "text": "where lack of coordination cost time. Every detailed story strengthens the case for CuroPilot.\nUse the Google Form to share:\n▹\nDescribe a medical emergency where minutes were lost.\n▹\nShare how hospitals, ambulances, or paramedics communicated (or failed to).\n▹\nTell us what preparation could have changed if information arrived earlier.\n▹\nMention any tools, checklists, or ideas that could bridge this gap.\nThe official Google Form captures everything securely. Your responses are anonymous and used"
+    },
+    {
+        "id": 46,
+        "source": "survey.txt",
+        "chunk_number": 3,
+        "text": "s gap.\nThe official Google Form captures everything securely. Your responses are anonymous and used solely for research and validation purposes.\nOpen the official Google Form ↗"
+    }
+]
