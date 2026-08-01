@@ -43,14 +43,14 @@ def search(query, model, index, metadata):
 
     faiss.normalize_L2(query_embedding)
 
-    distances, indices = index.search(
+    scores, indices = index.search(
         query_embedding,
         TOP_K
     )
 
     results = []
 
-    for idx, distance in zip(indices[0], distances[0]):
+    for idx, score in zip(indices[0], scores[0]):
 
         if idx == -1:
             continue
@@ -59,7 +59,7 @@ def search(query, model, index, metadata):
 
         results.append({
 
-            "score": float(distance),
+            "score": float(score),
 
             "source": chunk["source"],
 
@@ -70,6 +70,25 @@ def search(query, model, index, metadata):
         })
 
     return results
+
+def build_context(results):
+    """
+    Combine retrieved chunks into a single context string.
+    """
+
+    sections = []
+
+    for result in results:
+
+        section = (
+            f"Source: {result['source']}\n"
+            f"Chunk: {result['chunk']}\n\n"
+            f"{result['text']}"
+        )
+
+        sections.append(section)
+
+    return "\n\n" + ("-" * 80 + "\n\n").join(sections)
 
 
 def main():
@@ -96,6 +115,8 @@ def main():
             metadata
         )
 
+        context = build_context(results)
+
         print("\nTop Retrieved Chunks\n")
 
         for i, result in enumerate(results, start=1):
@@ -116,6 +137,15 @@ def main():
 
             print()
 
+        print("\n")
+
+        print("=" * 80)
+
+        print("COMBINED CONTEXT")
+
+        print("=" * 80)
+
+        print(context)
 
 if __name__ == "__main__":
     main()
