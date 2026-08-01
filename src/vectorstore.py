@@ -20,6 +20,8 @@ def load_embeddings():
 
     embeddings = embeddings.astype("float32")
 
+    faiss.normalize_L2(embeddings)
+
     return embeddings
 
 
@@ -34,7 +36,7 @@ def build_index(embeddings):
 
     dimension = embeddings.shape[1]
 
-    index = faiss.IndexFlatL2(dimension)
+    index = faiss.IndexFlatIP(dimension)
 
     index.add(embeddings)
 
