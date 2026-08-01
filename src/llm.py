@@ -67,4 +67,18 @@ def generate_answer(context, question):
 
     )
 
-    return completion.choices[0].message.content.strip()
+    response = completion.choices[0].message.content.strip()
+
+    response_lower = response.lower()
+
+    if (
+    "couldn't find" in response_lower
+    or "cannot find" in response_lower
+    or "not available" in response_lower
+    or "not found" in response_lower
+    or "not present" in response_lower
+    ):
+
+        return "I couldn't find that information in the available CuroPilot knowledge base."
+
+    return response

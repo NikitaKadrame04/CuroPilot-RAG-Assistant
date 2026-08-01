@@ -65,10 +65,20 @@ if st.button("Ask"):
                 question
             )
 
-        st.success("Answer")
+        NOT_FOUND_MESSAGE = (
+    "I couldn't find that information in the available CuroPilot knowledge base."
+)
 
-        st.write(answer)
+        if answer.strip() == NOT_FOUND_MESSAGE:
 
-        with st.expander("Retrieved Context"):
+            st.error(answer)
 
-            st.text(context)
+        else:
+
+            st.success("Answer")
+
+            st.write(answer)
+
+            with st.expander("Retrieved Context"):
+
+                st.text(context)
